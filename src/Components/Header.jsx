@@ -32,8 +32,7 @@ const Header = () => {
 
   return (
     <header
-      className={`z-20 fixed top-0 w-full bg-[#F5F2EC] transition-transform duration-300 shadow-sm
-        ${navState === "hide" ? "-translate-y-full" : "translate-y-0"}
+      className={`z-20 fixed top-0 h-[100px]  w-full bg-[#F5F2EC] transition-transform duration-300 shadow-sm
       `}
     >
       {/* Brand */}

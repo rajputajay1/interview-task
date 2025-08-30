@@ -43,7 +43,7 @@ export default function SuitsShowcaseSection() {
 
         {/* Request Appointment Button */}
         <div className="text-center mt-10 mb-6 ">
-          <button className="bg-amber-900 hover:bg-amber-800 rounded-sm text-white px-12 py-3 text-sm font-light tracking-[0.2em] uppercase transition-colors duration-300 shadow-lg hover:shadow-xl">
+          <button className="bg-amber-900 hover:bg-amber-300 rounded-sm text-white px-12 py-3 text-sm font-light tracking-[0.2em] uppercase transition-colors duration-300 shadow-lg hover:shadow-xl">
             REQUEST FOR AN APPOINTMENT
           </button>
         </div>
