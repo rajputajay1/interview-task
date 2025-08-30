@@ -1,5 +1,6 @@
 
 import './App.css'
+import BespokeToMeasureSection from './Components/BespokeToMeasureSection'
 import Header from './Components/Header'
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
   return (
     <>
     <Header/>
+    <BespokeToMeasureSection/>
      
     </>
   )
