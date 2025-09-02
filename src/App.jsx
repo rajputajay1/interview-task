@@ -5,6 +5,12 @@ import BespokeToMeasureSection from './Components/BespokeToMeasureSection'
 import Header from './Components/Header'
 import HeroSection from './Components/HeroSection'
 import SuitsShowcaseSection from './Components/SuitsShowcaseSection'
+import TailoringService from './Components/TailoringService'
+import EmpowerTradition from './Components/EmpowerTradition'
+import MaterialWeAdore from './Components/MaterialWeAdore'
+import UsingMaterialsWeAdore from './Components/UsingMaterialsWeAdore'
+import ExpressionStatement from './Components/ExpressionStatement'
+import SuitCards from './Components/SuitCards'
 
 function App() {
 
@@ -15,7 +21,12 @@ function App() {
     <BespokeToMeasureSection/>
     <SuitsShowcaseSection/>
     <BespokeExperienceSection/>
-     
+    <TailoringService/>
+    <EmpowerTradition/>
+    <MaterialWeAdore/>
+    <UsingMaterialsWeAdore/>
+     <ExpressionStatement/>
+     <SuitCards/>
     </>
   )
 }
